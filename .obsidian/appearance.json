@@ -1,1 +1,11 @@
-{}
+{
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Schibsted Grotesk,Karla",
+  "textFontFamily": "Familjen Grotesk,BlexMono Nerd Font Propo",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ]
+}

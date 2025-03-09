@@ -1,3 +1,13 @@
+---
+title: Thelas Nation
+tags:
+  - group/nomad
+  - nomad/nation
+  - nomad/marine
+  - setting/cyberpunk-red
+  - campaign/cyberpunk
+---
+
 Marine Nomads, sea nomads, and water nomads are all names the government has ignored. Because such people are seen as lawless, they are lumped together by the government and called pirates. It is a term which, to some degree, they have come to enjoy.
 
 The pirates derived their culture from fishermen and the coastal inhabitants of the Caribbean and the southern seaboard. When they were being plagued by waterborne gangs (or worse, government forces), and the central authorities could not or would not protect them, many loaded their families into boats and took to life on the water. It seemed to make sense: boats were difficult to locate for government agents and gang members alike, and finding work was easier because you could bring your whole home to wherever it was. Other cultural influences included so-called "boat-people" of many different persuasions, who were refused emigration and had no choice but life on the sea; as well as the former drug smugglers who now had many high-quality boats and nothing to do with them.
@@ -15,4 +25,4 @@ Sea nomads work at a variety of jobs both for hire or for personal gain. These p
 
 Some sea nomads do practice traditional piracy. Targeting vulnerable freighters, they learn what cargo the ship is carrying via shore-based connections, and mass to attack at a point where their target ship is forced to slow down. Disabling the ship's communications with a well-aimed anti-aircraft or anti-tank rocket they swarm and board before the opposing crewmen can stop them. When the ship is looted (at least of the particular cargo the nomads wanted), it is let go. Unless they meet unusually fierce resistance, nomads will not kill the crew of pirated ships, preferring to let them go to spread the word that non- resistance pays. The freighter crews themselves understand this, and do not usually wish to give their lives for a cargo they don't even own. The nomads then dispose of their loot ashore, often through the offices of the same corporation that set them on the scent of a rival's shipment.
 
-Most of these "pirates', however, are actually subsistence level fishermen who feel they have no choice but to steal anything that they can sell to help make ends meet for the most part (excepting the waterborne [Raffen Shiv](https://cyberpunk.fandom.com/wiki/Raffen_Shiv "Raffen Shiv")), they stay away from slave trading and kidnapping. Media portrayals to the contrary, a pirate action normally does not involve boarding actions and never includes swinging onto the decks from mysteriously~suspended ropes. Pirating involves stealing small cargoes, or parts of large cargoes, from poorly guarded ships in the night It also involves smuggling, blockade running, and other forms of tariff evasion.[[](https://cyberpunk.fandom.com/wiki/Thelas_Nation#cite_note-2020NT-1)
+Most of these "pirates', however, are actually subsistence level fishermen who feel they have no choice but to steal anything that they can sell to help make ends meet for the most part (excepting the waterborne [[Raffen Shiv]], they stay away from slave trading and kidnapping. Media portrayals to the contrary, a pirate action normally does not involve boarding actions and never includes swinging onto the decks from mysteriously suspended ropes. Pirating involves stealing small cargoes, or parts of large cargoes, from poorly guarded ships in the night It also involves smuggling, blockade running, and other forms of tariff evasion.[[](https://cyberpunk.fandom.com/wiki/Thelas_Nation#cite_note-2020NT-1)
